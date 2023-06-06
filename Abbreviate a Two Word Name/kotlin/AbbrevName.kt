@@ -1,0 +1,1 @@
+fun abbrevName(name: String) = name.split(" ").first()[0].toUpperCase() + "." + name.split(" ")[1][0].toUpperCase()
