@@ -1,1 +1,1 @@
-# kotlin-exercises
+# codewars-kata
